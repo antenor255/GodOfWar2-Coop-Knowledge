@@ -87,3 +87,4 @@ Investigar o pipeline de renderização 3D e encontrar onde a transformação do
 ## Critério de sucesso
 
 Dois jogadores controláveis, cada um com seu próprio Kratos, sem duplicar desnecessariamente a lógica do jogo, com possibilidade de câmeras independentes.
+Teste de sincronização automática — 03/11/2026.
